@@ -1,0 +1,79 @@
+body {
+    margin: 5% 20%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #FBE7C6;
+}
+
+#foto {
+    width: 200px;
+    height: auto;
+}
+
+#kota1 {
+    text-decoration: line-through;
+    background-color: aquamarine;
+}
+
+#kota2 {
+    text-decoration: underline;
+    background-color: coral;
+}
+
+.content {
+    text-align: justify;
+}
+
+.head {
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    text-align: center;
+    border-radius: 15px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #B4F8C8;
+    padding: 50px;
+    font-size: 24px;
+}
+
+section {
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+#profil {
+    background-color: #FFAEBC;
+}
+
+#biodata {
+    background-color: #A0E7E5;
+}
+
+#motto {
+    background-color: #E8B4B8;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    color: #000C66;
+}
+
+p {
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+
+blockquote {
+    font-size: 23px;
+}
+
+#author-quote {
+    font-size: 17px;
+    margin-left: 15px;
+}
